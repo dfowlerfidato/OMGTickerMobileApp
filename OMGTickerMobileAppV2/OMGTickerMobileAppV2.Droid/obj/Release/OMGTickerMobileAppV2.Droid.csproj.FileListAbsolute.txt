@@ -1,0 +1,339 @@
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\com.xamarin.sample.OMGTickerMobileApp.apk
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\com.xamarin.sample.OMGTickerMobileApp-Signed.apk
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\FormsViewGroup.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\GCM.Client.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PCLCrypto.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.BCrypt.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Kernel32.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.NCrypt.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Windows.Core.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.CurrentActivity.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Validation.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.Design.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v4.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Auth.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Core.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Platform.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Xaml.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.GooglePlayServices.Base.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.GooglePlayServices.Gcm.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PCLCrypto.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.BCrypt.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Kernel32.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.NCrypt.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Windows.Core.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.CurrentActivity.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Validation.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Core.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Xaml.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.csprojResolveAssemblyReference.cache
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\bin\com.xamarin.sample.OMGTickerMobileApp.apk
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable\icon.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable-hdpi\icon.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable-xhdpi\icon.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable-xxhdpi\icon.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable\omglogog.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\R.cs.flag
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\uploadflags.txt
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Java.Interop.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Mono.Android.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\mscorlib.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.ComponentModel.Composition.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Core.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Json.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Net.Http.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Numerics.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Runtime.Serialization.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.ServiceModel.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.ServiceModel.Internals.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Xml.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Xml.Linq.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Java.Interop.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Mono.Android.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\mscorlib.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\OMGTickerMobileAppV2.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\OMGTickerMobileAppV2.Droid.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.DeviceInfo.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.DeviceInfo.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Geolocator.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Permissions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Core.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Json.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Net.Http.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Numerics.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.ServiceModel.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Xml.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.pdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\com.xamarin.sample.OMGTickerMobileApp.apk
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\com.xamarin.sample.OMGTickerMobileApp-Signed.apk
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\FormsViewGroup.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\GCM.Client.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PCLCrypto.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.BCrypt.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Kernel32.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.NCrypt.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Windows.Core.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.CurrentActivity.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Settings.Abstractions.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Settings.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Validation.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.Design.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v4.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Auth.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Core.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Platform.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Xaml.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.GooglePlayServices.Base.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.GooglePlayServices.Gcm.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.pdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PCLCrypto.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.BCrypt.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Kernel32.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.NCrypt.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Windows.Core.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.CurrentActivity.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.pdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.pdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.pdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.pdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.pdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.pdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Settings.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Settings.Abstractions.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Validation.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Core.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Xaml.xml
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.csprojResolveAssemblyReference.cache
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.dll
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.pdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\bin\com.xamarin.sample.OMGTickerMobileApp.apk
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable\icon.png
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable-hdpi\icon.png
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable-xhdpi\icon.png
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable-xxhdpi\icon.png
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable\omglogog.png
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\R.cs.flag
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\uploadflags.txt
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Java.Interop.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Mono.Android.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\mscorlib.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.ComponentModel.Composition.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Core.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.IdentityModel.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Json.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Net.Http.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Numerics.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Runtime.Serialization.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.ServiceModel.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.ServiceModel.Internals.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Xml.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Xml.Linq.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Java.Interop.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Mono.Android.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\mscorlib.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\OMGTickerMobileAppV2.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\OMGTickerMobileAppV2.Droid.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.DeviceInfo.Abstractions.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.DeviceInfo.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Geolocator.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Permissions.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Core.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.IdentityModel.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Json.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Net.Http.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Numerics.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.ServiceModel.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Xml.dll.mdb
+Z:\Visual Studio 2015\Projects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\com.xamarin.sample.OMGTickerMobileApp.apk
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\com.xamarin.sample.OMGTickerMobileApp-Signed.apk
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\FormsViewGroup.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\GCM.Client.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PCLCrypto.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.BCrypt.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Kernel32.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.NCrypt.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Windows.Core.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.CurrentActivity.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Settings.Abstractions.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Settings.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Validation.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.Design.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v4.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Auth.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Core.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Platform.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Xaml.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.GooglePlayServices.Base.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.GooglePlayServices.Gcm.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PCLCrypto.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.BCrypt.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Kernel32.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.NCrypt.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\PInvoke.Windows.Core.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.CurrentActivity.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.DeviceInfo.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Geolocator.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Permissions.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Settings.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Plugin.Settings.Abstractions.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Validation.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Core.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Xamarin.Forms.Xaml.xml
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.csprojResolveAssemblyReference.cache
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.dll
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.pdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\bin\com.xamarin.sample.OMGTickerMobileApp.apk
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable\icon.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable-hdpi\icon.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable-xhdpi\icon.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable-xxhdpi\icon.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\res\drawable\omglogog.png
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\R.cs.flag
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\uploadflags.txt
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Java.Interop.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\Mono.Android.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\mscorlib.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.ComponentModel.Composition.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Core.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.IdentityModel.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Json.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Net.Http.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Numerics.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Runtime.Serialization.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.ServiceModel.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.ServiceModel.Internals.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Xml.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\System.Xml.Linq.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Java.Interop.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Mono.Android.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\mscorlib.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\OMGTickerMobileAppV2.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\OMGTickerMobileAppV2.Droid.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.DeviceInfo.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.DeviceInfo.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Geolocator.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\Plugin.Permissions.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Core.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.IdentityModel.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Json.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Net.Http.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Numerics.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.ServiceModel.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Xml.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\android\assets\System.Xml.Linq.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\obj\Release\OMGTickerMobileAppV2.Droid.dll.mdb
+E:\XamarinMobileProjects\OMGTickerMobileAppV2\OMGTickerMobileAppV2\OMGTickerMobileAppV2.Droid\bin\Release\OMGTickerMobileAppV2.Droid.dll.mdb
